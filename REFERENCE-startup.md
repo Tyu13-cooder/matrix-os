@@ -44,7 +44,7 @@ set options in setup.conf
 
 ## logo()
 
-Displays ArchTitus logo
+Displays Matrix logo
 
 _Function has no arguments._
 

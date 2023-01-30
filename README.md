@@ -4,8 +4,8 @@ Due to the constant updates and time it takes to maintain this script I will no 
 
 Thank you!
 
-# ArchTitus Installer Script
-[![GitHub Super-Linter](https://github.com/ChrisTitusTech/ArchTitus/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
+# Matrix Installer Script
+[![GitHub Super-Linter](https://github.com/ChrisTitusTech/Matrix/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 <img src="https://i.imgur.com/YiNMnan.png" />
 
@@ -24,9 +24,9 @@ From initial Prompt type the following commands:
 
 ```
 pacman -Sy git
-git clone https://github.com/ChrisTitusTech/ArchTitus
-cd ArchTitus
-./archtitus.sh
+git clone https://github.com/ChrisTitusTech/Matrix
+cd Matrix
+./Matrix.sh
 ```
 
 ### System Description
